@@ -1,4 +1,4 @@
-package com.sj.empmanagmentapplication;
+package com.gala.empmanagmentapplication;
 
 import java.util.Scanner;
 public class Main {
